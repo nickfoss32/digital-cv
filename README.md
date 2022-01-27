@@ -10,7 +10,7 @@ _Software engineer based in Saint Petersburg, FL_ <br>
 Experienced professional interested in designing and developing applications on embedded systems for the defense industry. Looking to further career in the cyber and systems security engineering realm. Productive team player and leader.
 
 ## Technical Overview
-<span>| C/C++ | Java | Bash | Python | MatLab | HTML/CSS | Javascript | UML | Git/GitHub | Jira/BitBucket/Confluence | Jenkins | Docker | Artifactory/Conan | CMake | Google Test | Yocto Project | DevSecOps | Test Driven Development | Linux Kernel Tuning | Technical Presentations |</span>
+<span>C/C++ | Java | Bash | Python | MatLab | HTML/CSS | Javascript | UML | Git/GitHub | Jira/BitBucket/Confluence | Jenkins | Docker | Artifactory/Conan | CMake | Google Test | Yocto Project | DevSecOps | Test Driven Development | Linux Kernel Tuning | Technical Presentations</span>
 
 ## Education
 **University of Illinois at Urbana-Champaign**
