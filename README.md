@@ -1,25 +1,13 @@
 # Nicholas Foss
 
-_Software engineer based in Saint Petersburg, FL_ <br>
-
 <nicholas.foss@comshark.com>  
 (847) 915-1353  
 [LinkedIn](https://www.linkedin.com/in/nfoss) | [GitHub](https://github.com/nickfoss32)
 
-## Summary
-Experienced professional interested in designing and developing applications on embedded systems for the defense industry. Looking to further career in the cyber and systems security engineering realm. Productive team player and leader.
+_Experienced professional interested in designing and developing applications on embedded systems for the defense industry. Looking to further career in the cyber and systems security engineering realm. Productive team player and leader._ <br>
 
-## Technical Overview
+## Technical Skills
 <span>C/C++ | Java | Bash | Python | MatLab | HTML/CSS | Javascript | UML | Git/GitHub | Jira/BitBucket/Confluence | Jenkins | Docker | Artifactory/Conan | CMake | Google Test | Yocto Project | DevSecOps | Test Driven Development | Linux Kernel Tuning | Technical Presentations</span>
-
-## Education
-**University of Illinois at Urbana-Champaign**
-<span>BS in Computer Engineering</span> <span>Dec 2015</span>  
-3.32
-
-**McHenry County College**  
-<span>Associates in Science with High Honors</span> <span>May 2013</span>  
-3.77  
 
 ## Experience
 
@@ -56,3 +44,12 @@ Experienced professional interested in designing and developing applications on 
 ### <span>Youth Football Coach, Cary Junior Trojans (Cary, IL)</span> <span>Jun 2011 - Nov 2012</span>
 - Taught football fundamentals, discipline, responsibility, leadership, & teamwork to adolescents ages 12-14
 - Coordinated with other coaches to come up with our 20-22 man roster each season, schedule meetings/practices, & scouting
+
+## Education
+**University of Illinois at Urbana-Champaign**
+<span>BS in Computer Engineering</span> <span>Dec 2015</span>  
+3.32
+
+**McHenry County College**  
+<span>Associates in Science with High Honors</span> <span>May 2013</span>  
+3.77  
