@@ -1,6 +1,15 @@
+---
+---
+<!-- ---
+layout: default
+theme: jekyll-theme-minimal
+# title: Nicholas Foss CV
+--- -->
+
 # Nicholas Foss
 
-<nicholas.foss@comshark.com>  
+<!-- <nicholas.foss@comshark.com>   -->
+{{ email }}
 (847) 915-1353  
 [LinkedIn](https://www.linkedin.com/in/nfoss) | [GitHub](https://github.com/nickfoss32)
 
