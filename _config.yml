@@ -1,1 +1,11 @@
+####    Site settings    ####
+
+title: Website for my CV written in markdown and structured/styled with HTML/CSS
+email: nicholas.foss@comshark.com
+description: This website hosts my digital CV written in markdown.
+
+####    Build settings    ####
+
+# Specify markdown syntax: https://kramdown.gettalong.org/syntax.html
+markdown: kramdown
 theme: jekyll-theme-minimal
