@@ -1,41 +1,43 @@
 ---
 ---
-<!-- ---
-layout: default
-theme: jekyll-theme-minimal
-# title: Nicholas Foss CV
---- -->
 
 # Nicholas Foss
 
-<!-- <nicholas.foss@comshark.com>   -->
-{{ email }}
+<nicholas.foss@comshark.com>  
 (847) 915-1353  
-[LinkedIn](https://www.linkedin.com/in/nfoss) | [GitHub](https://github.com/nickfoss32)
+[LinkedIn](https://www.linkedin.com/in/nfoss) | [GitHub](https://github.com/nickfoss32)  
 
-_Experienced professional interested in designing and developing applications on embedded systems for the defense industry. Looking to further career in the cyber and systems security engineering realm. Productive team player and leader._ <br>
+_Experienced professional interested in designing and developing applications on embedded systems for the defense industry. Looking to further career in the cyber and systems security engineering realm. Productive team player and leader._  
+
+## Education
+**University of Illinois at Urbana-Champaign**  
+<span>BS in Computer Engineering</span> <span>Dec 2015</span>  
+3.32  
+
+**McHenry County College**  
+<span>Associates in Science with High Honors</span> <span>May 2013</span>  
+3.77  
+
+<!-- ## Certifications  -->
+<!-- - Security+ -->
 
 ## Technical Skills
-<span>C/C++ | Java | Bash | Python | MatLab | HTML/CSS | Javascript | UML | Git/GitHub | Jira/BitBucket/Confluence | Jenkins | Docker | Artifactory/Conan | CMake | Google Test | Yocto Project | DevSecOps | Test Driven Development | Linux Kernel Tuning | Technical Presentations</span>
+<span>C/C++ | Java | Bash | Python | MatLab | HTML/CSS | Javascript | UML | Jekyll | XML/JSON/YAML | Git/GitHub | Jira/BitBucket/Confluence | Jenkins | Docker | Artifactory/Conan | CMake | Google Test | Yocto Project | DOORS | IBM Rhapsody | DevSecOps | Test Driven Development | Linux Kernel Tuning </span>
 
 ## Experience
 
 ### <span>Senior Software Engineer, Raytheon Technologies (St. Petersburg, FL)</span> <span>Mar 2016 - Present</span>
-- Designed and implemented composite radar tracking and composite track identification applications used by the Aegis Combat System and Ship Self Defense System for the CEC program
-- Conducted composite tracking data analysis via MatLab and CEC analysis tools
-- Designed and implemented network-level, distributed capabilities that ran across the CEC network
-- Investigated and implemented several high-priority bug fixes that were delivered to the fleet (CEC mainline)
-- Cooperated with Systems Engineers to develop working products through requirements, design, implementation, and test
-- Supported integration events at offsite land based test sites
-- Provided customer with technical guidance and support during development and integration
-- Pioneered effort to help CEC program adopt DevSecOps
-- Modernized CI/CD infrastructure to utilize the Atlassian Stack, Artifactory, and other modern tooling
-- Designed open and modular software architecture using C++ design idioms such as Non-Virtual Interfaces (NVI) to promote code reusability for refactoring efforts
-- Served as Scrum Master and Product Owner of various cross-functional teams
-- Served as Software Architect for an agile release train (ART) in SAFe organization
-- Led several simultaneous efforts as software architect including CI/CD improvements, architecting software design approaches to new capabilities, piloting new processes with new tool suite, etc.
-- Presented to customer at software board reviews to articulate progress of capability development across CEC program suite
-- Piloted effort moving CEC applications to use CMake
+- Coordinated with Systems Engineers to develop working products through requirements, modelling, design, implementation, and test
+- Designed and implemented C++ applications on real-time, embedded systems for DoD contract(s)
+- Analyzed system performance on embedded target(s) using tools like htop, iperf, & tcpdump
+- Led customer-funded research & development effort to upgrade legacy product to new hardware and processor architecture
+- Supported customer integration events both in-person at test sites and remotely from the office
+- Led several innovation efforts in regards to modernizing Continuous Improvement/Continuous Delivery (CI/CD) infrastructure
+- Incorporated open and modular software architecture using C++ design idioms such as Non-Virtual Interfaces (NVI), Strategy patterns, & more to promote code reusability & testability
+- Led several cross-functional teams in program's SAFe organization by serving as Scrum Master, Product Owner, and Software Architect
+- Presented to customer at software board reviews to articulate progress of capability development across program(s)
+- Attended Raytheon training for Anti-Tamper concepts and techniques
+- Attended Raytheon Anti-Tamper Technical Exchange
 
 ### <span>Student, University of Illinois (Champaign, IL)</span> <span>Aug 2013 - Dec 2015</span>
  - Communication Networks (TCP/IP)
@@ -53,12 +55,3 @@ _Experienced professional interested in designing and developing applications on
 ### <span>Youth Football Coach, Cary Junior Trojans (Cary, IL)</span> <span>Jun 2011 - Nov 2012</span>
 - Taught football fundamentals, discipline, responsibility, leadership, & teamwork to adolescents ages 12-14
 - Coordinated with other coaches to come up with our 20-22 man roster each season, schedule meetings/practices, & scouting
-
-## Education
-**University of Illinois at Urbana-Champaign**
-<span>BS in Computer Engineering</span> <span>Dec 2015</span>  
-3.32
-
-**McHenry County College**  
-<span>Associates in Science with High Honors</span> <span>May 2013</span>  
-3.77  
