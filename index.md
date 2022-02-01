@@ -1,4 +1,6 @@
 ---
+geometry: margin=2cm
+output: pdf_document
 ---
 
 # Nicholas Foss
