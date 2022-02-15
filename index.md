@@ -29,12 +29,12 @@ _Experienced professional interested in designing and developing applications on
 ## Experience
 
 ### <span>Senior Software Engineer, Raytheon Technologies (St. Petersburg, FL)</span> <span>Mar 2016 - Present</span>
-- Coordinated with Systems Engineers to develop working products through requirements, modelling, design, implementation, and test
+- Coordinated with Systems Engineers to develop working products through requirements, modeling, design, implementation, and test
 - Designed and implemented C++ applications on real-time, embedded systems for DoD contract(s)
-- Analyzed system performance on embedded target(s) using tools like htop, iperf, & tcpdump
+- Analyzed system performance on embedded target(s) using Linux tools like htop, iperf, & tcpdump
 - Led customer-funded research & development effort to upgrade legacy product to new hardware and processor architecture
 - Supported customer integration events both in-person at test sites and remotely from the office
-- Led several innovation efforts in regards to modernizing Continuous Improvement/Continuous Delivery (CI/CD) infrastructure
+- Led several innovation efforts in regards to modernizing Continuous Integration/Continuous Delivery (CI/CD) infrastructure
 - Incorporated open and modular software architecture using C++ design idioms such as Non-Virtual Interfaces (NVI), Strategy patterns, & more to promote code reusability & testability
 - Led several cross-functional teams in program's SAFe organization by serving as Scrum Master, Product Owner, and Software Architect
 - Presented to customer at software board reviews to articulate progress of capability development across program(s)
