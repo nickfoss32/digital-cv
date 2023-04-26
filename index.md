@@ -9,26 +9,34 @@ output: pdf_document
 (847) 915-1353  
 [LinkedIn](https://www.linkedin.com/in/nfoss) | [GitHub](https://github.com/nickfoss32)  
 
-_Experienced professional interested in designing and developing applications on embedded systems for the defense industry. Looking to further career in the cyber and systems security engineering realm. Productive team player and leader._  
+_Experienced professional interested in designing and developing applications within the defense industry. Looking to further career in modern C++ and full stack development. Productive team player and leader._  
 
 ## Education
 **University of Illinois at Urbana-Champaign**  
-<span>BS in Computer Engineering</span> <span>Dec 2015</span>  
+BS in Computer Engineering Dec 2015  
 3.32  
 
 **McHenry County College**  
-<span>Associates in Science with High Honors</span> <span>May 2013</span>  
+Associates in Science with High Honors May 2013  
 3.77  
 
 <!-- ## Certifications  -->
 <!-- - Security+ -->
 
-## Technical Skills
-<span>C/C++ | Java | Bash | Python | MatLab | HTML/CSS | Javascript | Verilog | UML | Jekyll | XML/JSON/YAML | Git/GitHub | Jira/BitBucket/Confluence | Jenkins | Docker | Artifactory/Conan | CMake | Google Test | Yocto Project | DOORS | IBM Rhapsody | Xilinx Vivado Design Suite | DevSecOps | Test Driven Development | Linux Kernel Tuning </span>
+## Proficient Skills
+C/C++20 | CMake | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | DevSecOps via Jenkins/GitLab CI | Docker | Artifactory/Conan | GTest/GMock | Google Benchmark | Catch2 | Boost | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | DOORS | IBM Rhapsody | VSCode | SonarQube | Test Driven Development | Linux Kernel Tuning | Redhat Linux  
+
+## Familiar Skills
+Java | Python | HTML/CSS | JavaScript | Jekyll | Verilog | MatLab | Xilinx Vivado Design Suite  
 
 ## Experience
 
-### <span>Senior Software Engineer, Raytheon Technologies (St. Petersburg, FL)</span> <span>Mar 2016 - Present</span>
+### Sr. Specialist Software Engineer, L3Harris Technologies (Melbourne, FL) Jul 2022 - Present
+- Worked remotely as sub to folks in CO and NJ for DoD space program
+- Developed real-time, containerized C++ applications using modern C++20
+- Utilized data streaming technologies like ZMQ to allow fast communication between apps
+
+### Senior Software Engineer, Raytheon Technologies (St. Petersburg, FL) Mar 2016 - Jul 2022
 - Coordinated with hardware and systems engineers to develop working software products through requirements, modeling, design, implementation, and test for DoD programs
 - Integrated FOSS and COTS products into DoD applications
 - Led innovation efforts by evaluating and incorporating FOSS and COTS products into Continuous Integration/Continuous Delivery (CI/CD) infrastructure and software development workflows
@@ -41,7 +49,7 @@ _Experienced professional interested in designing and developing applications on
 - Attended Raytheon training for Anti-Tamper concepts and techniques
 - Attended Raytheon Anti-Tamper Technical Exchange
 
-### <span>Student, University of Illinois (Champaign, IL)</span> <span>Aug 2013 - Dec 2015</span>
+### Student, University of Illinois (Champaign, IL) Aug 2013 - Dec 2015
  - Communication Networks (TCP/IP)
  - Distributed Systems
  - Embedded Systems (programming on RTOS)
@@ -49,11 +57,11 @@ _Experienced professional interested in designing and developing applications on
  - Computer Systems Engineering (Operating Systems)
  - Digital Signal Processing (programming on FPGA using SystemVerilog)
 
-### <span>Accounts Receivable Intern, Primesource Healthcare (Buffalo Grove, IL)</span> <span>Sep 2012 - Aug 2013</span>
+### Accounts Receivable Intern, Primesource Healthcare (Buffalo Grove, IL) Sep 2012 - Aug 2013
  - Identified and corrected errors in denied insurance claims in order to collect payment for medical services provided by PrimeSource
  - Worked with supervisors to restructure billing protocols to stop errors from occurring
  - Updated patient information and financial transactions in Intelligent Medical Software (IMS) database
 
-### <span>Youth Football Coach, Cary Junior Trojans (Cary, IL)</span> <span>Jun 2011 - Nov 2012</span>
+### Youth Football Coach, Cary Junior Trojans (Cary, IL) Jun 2011 - Nov 2012
 - Taught football fundamentals, discipline, responsibility, leadership, & teamwork to adolescents ages 12-14
 - Coordinated with other coaches to come up with our 20-22 man roster each season, schedule meetings/practices, & scouting
