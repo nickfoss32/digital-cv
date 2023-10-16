@@ -24,17 +24,19 @@ Associates in Science with High Honors May 2013
 <!-- - Security+ -->
 
 ## Proficient Skills
-C/C++20 | CMake | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | DevSecOps via Jenkins/GitLab CI | Docker | Artifactory/Conan | GTest/GMock | Google Benchmark | Catch2 | Boost | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | DOORS | IBM Rhapsody | VSCode | SonarQube | Test Driven Development | Linux Kernel Tuning | Redhat Linux  
+C/C++20 | CMake | Python3 | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | DevSecOps via Jenkins/GitLab CI | Docker | Artifactory/Conan | GTest/GMock | Google Benchmark | Catch2 | Boost | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | DOORS | IBM Rhapsody | VSCode | SonarQube | Test Driven Development | Linux Kernel Tuning | Redhat Linux  
 
 ## Familiar Skills
-Java | Python | HTML/CSS | JavaScript | Jekyll | Verilog | MatLab | Xilinx Vivado Design Suite  
+Java | HTML/CSS | JavaScript | Jekyll | Verilog | MatLab | Xilinx Vivado Design Suite  
 
 ## Experience
 
 ### Sr. Specialist Software Engineer, L3Harris Technologies (Melbourne, FL) Jul 2022 - Present
-- Worked remotely as sub to folks in CO and NJ for DoD space program
+- Worked remotely as sub-contractor to another company in CO and NJ for DoD satellite ground system program
 - Developed real-time, containerized C++ applications using modern C++20
 - Utilized data streaming technologies like ZMQ to allow fast communication between apps
+- Designed, implemented, and integrated several common libraries into system's app stream
+- Enhanced several aspects of program's GitLab-based CI/CD infrastructure
 
 ### Senior Software Engineer, Raytheon Technologies (St. Petersburg, FL) Mar 2016 - Jul 2022
 - Coordinated with hardware and systems engineers to develop working software products through requirements, modeling, design, implementation, and test for DoD programs
