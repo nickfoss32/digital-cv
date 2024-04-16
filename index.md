@@ -9,7 +9,7 @@ output: pdf_document
 (847) 915-1353  
 [LinkedIn](https://www.linkedin.com/in/nfoss) | [GitHub](https://github.com/nickfoss32)  
 
-_Experienced professional interested in designing and developing applications within the defense industry. Looking to further career in modern C++ and full stack development. Productive team player and leader._  
+_Experienced professional interested in designing and implementing cloud or embedded applications within the defense industry. Looking to further career in cloud architecture and full stack development. Productive team player and leader._  
 
 ## Education
 **University of Illinois at Urbana-Champaign**  
@@ -21,22 +21,26 @@ Associates in Science with High Honors May 2013
 3.77  
 
 <!-- ## Certifications  -->
+<!-- - AWS Cloud Practitioner -->
 <!-- - Security+ -->
 
 ## Proficient Skills
-C/C++20 | CMake | Python3 | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | DevSecOps via Jenkins/GitLab CI | Docker | Artifactory/Conan | GTest/GMock | Google Benchmark | Catch2 | Boost | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | DOORS | IBM Rhapsody | VSCode | SonarQube | Test Driven Development | Linux Kernel Tuning | Redhat Linux  
+C/C++23 | CMake | Python3 | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | CI/CD via Jenkins/GitLab | Docker | Artifactory/Conan | GTest/GMock | Google Benchmark | Catch2 | Boost | gRPC | Kafka | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | IBM Rhapsody | VSCode | SonarQube | Test Driven Development | Linux Kernel Tuning | Redhat Linux  
 
 ## Familiar Skills
-Java | HTML/CSS | JavaScript | Jekyll | Verilog | MatLab | Xilinx Vivado Design Suite  
+Amazon Web Services (AWS) | Kubernetes | MongoDB | Java | HTML/CSS | JavaScript | Jekyll | Verilog | MatLab | Xilinx Vivado Design Suite | DOORS  
 
 ## Experience
 
 ### Sr. Specialist Software Engineer, L3Harris Technologies (Melbourne, FL) Jul 2022 - Present
-- Worked remotely as sub-contractor to another company in CO and NJ for DoD satellite ground system program
-- Developed real-time, containerized C++ applications using modern C++20
+- Served as Chief Software Engineer of ground system segment for L3H-owned missile warning/missile defense program from SRR phase.
+- Led effort to draft up technical solution to support new program capture (Gate 1)
+- Worked remotely as sub-contractor to support design and development of ground system for modern missile warning/missile defense program. Served as technical lead for other L3H developers on program.
+- Developed real-time, containerized C++ applications using modern C++20/23 in a microservices, event-driven architecture
 - Utilized data streaming technologies like ZMQ to allow fast communication between apps
 - Designed, implemented, and integrated several common libraries into system's app stream
 - Enhanced several aspects of program's GitLab-based CI/CD infrastructure
+- Implemented client/server services using google's remote procedure call (RPC) and protobuf libraries
 
 ### Senior Software Engineer, Raytheon Technologies (St. Petersburg, FL) Mar 2016 - Jul 2022
 - Coordinated with hardware and systems engineers to develop working software products through requirements, modeling, design, implementation, and test for DoD programs
