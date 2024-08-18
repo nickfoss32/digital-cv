@@ -25,22 +25,29 @@ Associates in Science with High Honors May 2013
 <!-- - Security+ -->
 
 ## Proficient Skills
-C/C++23 | CMake | Python3 | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | CI/CD via Jenkins/GitLab | Docker | Artifactory/Conan | GTest/GMock | Google Benchmark | Catch2 | Boost | gRPC | Kafka | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | IBM Rhapsody | VSCode | SonarQube | Test Driven Development | Linux Kernel Tuning | Redhat Linux  
+C/C++23 | CMake | Python3 | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | CI/CD via Jenkins/GitLab | Docker | Artifactory/Conan | GTest/GMock | Google Benchmark | Catch2 | Boost | gRPC | Kafka | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | IBM Rhapsody | VSCode | SonarQube | Redhat Linux | Event Driven Architecture | Microservice Architecture | Amazon Web Services (AWS) | MongoDB | Node.js | Jekyll | RESTful CRUD Services  
 
 ## Familiar Skills
-Amazon Web Services (AWS) | Kubernetes | MongoDB | Java | HTML/CSS | JavaScript | Jekyll | Verilog | MatLab | Xilinx Vivado Design Suite | DOORS  
+Kubernetes | RedHat OpenShift | Ruby | Rust | Java | HTML/CSS | Verilog | MatLab | Xilinx Vivado Design Suite | DOORS  
 
 ## Experience
 
 ### Sr. Specialist Software Engineer, L3Harris Technologies (Melbourne, FL) Jul 2022 - Present
-- Served as Chief Software Engineer of ground system segment for L3H-owned missile warning/missile defense program from SRR phase.
+- Led small team in design and implementation of an event driven system prototype via IRAD made up of a series of C++ applications communicating via Kafka that leverage microservices for interacting with various MongoDB instances
+- Designed and implemented create, read, update, delete (CRUD) services for use in event driven system prototype using Express.js, MongoDB, and C++ client lib
+- Mentored entry level engineer in software design and architecture principles
+- Served as Chief Software Engineer of ground system segment for L3H-owned missile warning/missile defense program from SRR through PDR phases
+- Ported existing ground system software architecture to AWS via a lift and shift approach. Utilized services such as EC2, EBS, EFS, and S3
+- Used AWS pricing calculator to provide customer with 12 month runtime cost estimate
 - Led effort to draft up technical solution to support new program capture (Gate 1)
-- Worked remotely as sub-contractor to support design and development of ground system for modern missile warning/missile defense program. Served as technical lead for other L3H developers on program.
+- Worked remotely as sub-contractor to support design and development of ground system for modern missile warning/missile defense program
+- Served as technical lead for other L3H developers on above program
 - Developed real-time, containerized C++ applications using modern C++20/23 in a microservices, event-driven architecture
 - Utilized data streaming technologies like ZMQ to allow fast communication between apps
 - Designed, implemented, and integrated several common libraries into system's app stream
 - Enhanced several aspects of program's GitLab-based CI/CD infrastructure
 - Implemented client/server services using google's remote procedure call (RPC) and protobuf libraries
+- Designed and implemented ZMQ wrapper library written in Rust
 
 ### Senior Software Engineer, Raytheon Technologies (St. Petersburg, FL) Mar 2016 - Jul 2022
 - Coordinated with hardware and systems engineers to develop working software products through requirements, modeling, design, implementation, and test for DoD programs
