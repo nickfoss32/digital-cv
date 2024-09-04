@@ -9,7 +9,7 @@ output: pdf_document
 (847) 915-1353  
 [LinkedIn](https://www.linkedin.com/in/nfoss) | [GitHub](https://github.com/nickfoss32)  
 
-_Experienced professional interested in designing and implementing cloud or embedded applications within the defense industry. Looking to further career in cloud architecture and full stack development. Productive team player and leader._  
+_Experienced professional currently in the defense industry interested in designing and implementing cloud or embedded applications. Looking to further career in cloud architecture and full stack development. Productive team player and leader._  
 
 ## Education
 **University of Illinois at Urbana-Champaign**  
