@@ -25,7 +25,7 @@ Associates in Science with High Honors May 2013
 <!-- - Security+ -->
 
 ## Proficient Skills
-C/C++23 | CMake | Python3 | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | CI/CD via Jenkins/GitLab | Docker | Artifactory/Conan | GTest/GMock | Google Benchmark | Catch2 | Boost | gRPC | Kafka | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | IBM Rhapsody | VSCode | SonarQube | Redhat Linux | Event Driven Architecture | Microservice Architecture | Amazon Web Services (AWS) | MongoDB | Node.js | Jekyll | RESTful CRUD Services  
+C/C++23 | CMake | Python3 | Bash | UML | Git | GitHub/GitLab | Jira/Confluence | CI/CD via Jenkins/GitLab | Docker | Artifactory/Conan | GTest/GMock | Google Benchmark | Boost | gRPC | Kafka | ZMQ | C++ Sanitizers ASAN/TSAN/UBSAN | Yocto Project | IBM Rhapsody | Cameo | VSCode | SonarQube | Redhat Linux | Event Driven Architecture | Microservice Architecture | Amazon Web Services (AWS) | MongoDB | Node.js | Jekyll | RESTful CRUD Services  
 
 ## Familiar Skills
 Kubernetes | RedHat OpenShift | Ruby | Rust | Java | HTML/CSS | Verilog | MatLab | Xilinx Vivado Design Suite | DOORS  
@@ -47,11 +47,12 @@ Kubernetes | RedHat OpenShift | Ruby | Rust | Java | HTML/CSS | Verilog | MatLab
 - Designed, implemented, and integrated several common libraries into system's app stream
 - Enhanced several aspects of program's GitLab-based CI/CD infrastructure
 - Implemented client/server services using google's remote procedure call (RPC) and protobuf libraries
-- Designed and implemented ZMQ wrapper library written in Rust
+- Designed and implemented ZMQ wrapper library written in Rust for early prototyping contract
 
 ### Senior Software Engineer, Raytheon Technologies (St. Petersburg, FL) Mar 2016 - Jul 2022
 - Coordinated with hardware and systems engineers to develop working software products through requirements, modeling, design, implementation, and test for DoD programs
 - Integrated FOSS and COTS products into DoD applications
+- Performed hardware-in-the-loop testing of software releases
 - Led innovation efforts by evaluating and incorporating FOSS and COTS products into Continuous Integration/Continuous Delivery (CI/CD) infrastructure and software development workflows
 - Supported customer integration events both in-person at test sites and remotely from the office
 - Incorporated open and modular software architecture using C++ design idioms such as Non-Virtual Interfaces (NVI), Strategy patterns, & more to promote code reusability & testability
